@@ -1,2 +1,0 @@
-# FreeRTOS
-FreeRTOS library
